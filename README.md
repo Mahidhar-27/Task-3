@@ -21,8 +21,8 @@ A simple RESTful API built with Node.js and Express to manage a list of books st
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PANGA-DHANUNJAY/simple-books-rest-api.git
-   cd simple-books-rest-api
+   git clone https://github.com/Mahidhar-27/Task-3.git
+   cd Task-3
    ```
    
 2. Install dependencies:
